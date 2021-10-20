@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Dr.Marta Green",
+      "job": "Senior Doctor",
+      "image": "https://i.ibb.co/JsVy6kP/member-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Dr.Edward Jay",
+      "job": "Senior Doctor",
+      "image": "https://i.ibb.co/txDGxcS/member-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Dr.Josheph Phillips",
+      "job": "Senior Doctor",
+      "image": "https://i.ibb.co/nzzK0Sc/member-3.png"
+    }
+]

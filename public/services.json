@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Dental implants",
+      "description": "The Implement Fixture is First Placed,so that it is likely osseointegrate,then a dental prosthetic is added.",
+      "image": "https://i.ibb.co/6HmRPnc/implant.png"
+    },
+    {
+      "id": 2,
+      "title": "Braces",
+      "description": "Braces shift teeth by applying pressure, which constricts blood flow to the surrounding tissue that holds those teeth in place.",
+      "image": "https://i.ibb.co/94Gmngh/braces.png"
+    },
+    {
+      "id": 3,
+      "title": "Dental Drill",
+      "description": "While the dental drill, sometimes known as a dental handpiece,it is also used for removing decay, polishing fillings, performing cosmetic dentistry, and altering prostheses.",
+      "image": "https://i.ibb.co/D4SYr55/drilling.png"
+    },
+    {
+      "id": 4,
+      "title": "Teeth Whitening",
+      "description": "Bleaching method use carbamide peroxide which reacts with water to form hydrogen peroxide.",
+      "image": "https://i.ibb.co/KxTxRtT/teeth.png"
+    },
+    {
+      "id": 5,
+      "title": "Dental floss",
+      "description": "Dental floss is a cord of thin filaments used in interdental cleaning to remove food and dental plaque from between teeth, places a toothbrush has difficulty reaching, or is unable to reach",
+      "image": "https://i.ibb.co/0XpSytz/dental-floss.png"
+    },
+    {
+      "id": 6,
+      "title": "Prevention",
+      "description": "The most important part of preventive dentistry is to brush teeth with fluoride toothpaste approved by ADA.",
+      "image": "https://i.ibb.co/3cqvvHx/tooth.png"
+    }
+  ]

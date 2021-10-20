@@ -1,0 +1,7 @@
+.card-container{
+    background-color: cadetblue;
+}
+
+.card-container:hover {
+    background-color: aqua;
+}
